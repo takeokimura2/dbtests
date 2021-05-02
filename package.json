@@ -1,0 +1,25 @@
+{
+  "name": "dbtests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takeokimura2/dbtests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takeokimura2/dbtests/issues"
+  },
+  "homepage": "https://github.com/takeokimura2/dbtests#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^8.6.0"
+  }
+}
